@@ -11,8 +11,8 @@ body {
 }
 
 .main {
-    height: 1180px;
-    width: 800px;
+    height: 1190px;
+    width: 935px;
     background-color: white;
     box-shadow: 5px 7px 15px 5px #b9b6b6;
     margin: 20px auto;
@@ -61,7 +61,7 @@ body {
 
 .line {
     border-left: 1px solid #c7c7c7;
-    height: 880px;
+    height: 890px;
     width: 2%;
     margin-top: 10px;
     float: left;
